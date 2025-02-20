@@ -36,14 +36,14 @@ A powerful AI-powered web application built with ReactJS (frontend) and Flask (b
 ## **📦 Installation & Setup**
 ### **Frontend (React)**
 ```sh
-git clone https://github.com/yourusername/vigil.ai.git
-cd vigil.ai/frontend
+git clone https://github.com/yourusername/neuraclass.git
+cd neuraclass/frontend
 npm install
-npm run dev
+npm start
 ```
 Backend (Flask)
 ```sh
-cd vigil.ai/backend
+cd neuraclass/backend
 pip install -r requirements.txt
 python app.py
 ```
