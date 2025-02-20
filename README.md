@@ -27,7 +27,7 @@ A powerful AI-powered web application built with ReactJS (frontend) and Flask (b
 ---
 
 ## **🔧 Technologies Used**
-- **Frontend:** ReactJS, Vite, CSS Modules  
+- **Frontend:** ReactJS, create-react-app, CSS Modules  
 - **Backend:** Flask, Groq API  
 - **APIs & Libraries:** ResponsiveVoice TTS, OpenAI Whisper Medium S2T  
 
@@ -36,14 +36,14 @@ A powerful AI-powered web application built with ReactJS (frontend) and Flask (b
 ## **📦 Installation & Setup**
 ### **Frontend (React)**
 ```sh
-git clone https://github.com/yourusername/neuraclass.git
-cd neuraclass/frontend
+git clone https://github.com/yourusername/NeuraClass.git
+cd NeuraClass/frontend
 npm install
 npm start
 ```
 Backend (Flask)
 ```sh
-cd neuraclass/backend
+cd NeuraClass/backend
 pip install -r requirements.txt
 python app.py
 ```
