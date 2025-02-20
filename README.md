@@ -1,4 +1,4 @@
-# Vigil.AI 🚀  
+# NeuraClass 🚀  
 A powerful AI-powered web application built with ReactJS (frontend) and Flask (backend), featuring:  
 ✅ **Face Recognition** (Age, Gender, Nationality Detection)  
 ✅ **AI-Powered Assignment Grading Assistant**  
@@ -47,6 +47,8 @@ cd vigil.ai/backend
 pip install -r requirements.txt
 python app.py
 ```
+
+---
 
 📄 Features
 <p>✅ Face Recognition – Detect age, gender, and nationality</p>
