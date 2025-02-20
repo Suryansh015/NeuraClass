@@ -49,14 +49,13 @@ python app.py
 ```
 
 📄 Features
-✅ Face Recognition – Detect age, gender, and nationality\n
-✅ Lost & Found – Identify missing persons from a crowd
-✅ Study Planner – Plan subjects, habits, and resources
-✅ Attendance Dashboard – Track student attendance
-✅ AI Assignment Grading – Automate assignment evaluation
+<p>✅ Face Recognition – Detect age, gender, and nationality</p>
+<p>✅ Lost & Found – Identify missing persons from a crowd</p>
+<p>✅ Study Planner – Plan subjects, habits, and resources</p>
+<p>✅ Attendance Dashboard – Track student attendance</p>
+<p>✅ AI Assignment Grading – Automate assignment evaluation</p>
 
-🌍 Live Demo
-🔗 Check it out here!
+🌍 Live Demo - 🔗 Check it out here!
 
 📩 Contact
 For queries or contributions, feel free to reach out! 😊
