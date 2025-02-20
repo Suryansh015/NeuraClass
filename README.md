@@ -49,7 +49,7 @@ python app.py
 ```
 
 📄 Features
-✅ Face Recognition – Detect age, gender, and nationality
+✅ Face Recognition – Detect age, gender, and nationality\n
 ✅ Lost & Found – Identify missing persons from a crowd
 ✅ Study Planner – Plan subjects, habits, and resources
 ✅ Attendance Dashboard – Track student attendance
@@ -60,4 +60,4 @@ python app.py
 
 📩 Contact
 For queries or contributions, feel free to reach out! 😊
-mailto:himalayansuryansh@gmail.com
+himalayansuryansh@gmail.com
