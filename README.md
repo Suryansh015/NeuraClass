@@ -55,8 +55,12 @@ python app.py
 <p>✅ Attendance Dashboard – Track student attendance</p>
 <p>✅ AI Assignment Grading – Automate assignment evaluation</p>
 
+---
+
 🌍 Live Demo - 🔗 Check it out here!
 
+---
+
 📩 Contact
-For queries or contributions, feel free to reach out! 😊
+<p>For queries or contributions, feel free to reach out! 😊</p>
 himalayansuryansh@gmail.com
