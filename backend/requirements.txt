@@ -10,6 +10,4 @@ facenet-pytorch
 pillow
 pandas
 python-dotenv
-Werkzeug
-smtplib
-email
+Werkzeug==3.0.1
