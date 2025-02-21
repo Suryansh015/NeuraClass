@@ -1,13 +1,13 @@
-Flask==3.0.0
-flask-cors==4.0.0
-PyPDF2==3.0.1
-groq==0.1.1
-opencv-python-headless==4.8.0.76
-numpy==1.26.0
-torch==2.1.0  # Now compatible with Python 3.11
-ultralytics==8.0.196
-facenet-pytorch==2.5.3
-pillow==10.0.1
-pandas==2.1.2
-python-dotenv==1.0.0
+Flask
+flask-cors
+PyPDF2
+groq
+opencv-python-headless
+numpy
+torch
+ultralytics
+facenet-pytorch
+pillow
+pandas
+python-dotenv
 Werkzeug==3.0.1
