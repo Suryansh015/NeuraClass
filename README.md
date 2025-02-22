@@ -1,4 +1,4 @@
-# NeuraClass 🚀  
+# NeuraClass
 A powerful AI-powered web application built with ReactJS (frontend) and Flask (backend), featuring:  
 ✅ **Face Recognition** (Age, Gender, Nationality Detection)  
 ✅ **AI-Powered Assignment Grading Assistant**  
