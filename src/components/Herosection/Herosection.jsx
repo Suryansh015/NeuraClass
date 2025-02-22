@@ -37,7 +37,7 @@ const HeroSection = () => {
                 Welcome to <span style={{ color: "rgb(0, 153, 255)" }}>NeuraClass</span>
               </h1>
               <p className={`${styles.heroSubtitle} animate-subtitle`}>
-                Advanced facial recognition and crowd analysis solutions
+                AI-Powered Assignment Grading & Facial Recognition Attendance System:
               </p>
 
               {/* Updated Get Started Button */}
