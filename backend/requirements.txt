@@ -1,0 +1,15 @@
+Flask
+flask-cors
+PyPDF2
+groq
+opencv-python
+numpy
+torch
+ultralytics
+facenet-pytorch
+pillow
+pandas
+python-dotenv
+Werkzeug
+smtplib
+email
